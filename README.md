@@ -1,15 +1,15 @@
-# Google AMP Streaming site Samehadaku
-[![PHP Composer](https://github.com/karatakatsuo/samehadaku-amp/actions/workflows/php.yml/badge.svg)](https://github.com/karatakatsuo/samehadaku-amp/actions/workflows/php.yml)
+# SAMEHADAKU AMP PHP
 
-## Description
-This is a simple streaming site for anime, using Google AMP (Accelerated Mobile Pages) to make it faster and more mobile-friendly. This site is a clone of [Samehadaku](https://samehadaku.today/), a popular anime streaming site.
-The content we use API from [Samehadaku](https://samehadaku.today/), and We Cache the data to make it faster using Redis.
+THIS IS A SIMPLE STREAMING SITE FOR ANIME, USING GOOGLE AMP (ACCELERATED MOBILE PAGES) TO MAKE IT FASTER AND MORE MOBILE-FRIENDLY. THIS SITE IS A CLONE OF [SAMEHADAKU](HTTPS://SAMEHADAKU.SITE/), A POPULAR ANIME STREAMING SITE.
+THE CONTENT WE USE API FROM [SAMEHADAKU](HTTPS://SAMEHADAKU.SITE/), AND WE CACHE THE DATA TO MAKE IT FASTER USING REDIS.
 
-## Screenshots
-![Home](screenshoot.png)
+## SCREEENSHOOT
+![HOME](screenshoot.png)
 
-## Features
-- [x] Home
-- [x] Anime List
-- [x] Bookmark
-- [x] Schedule
+## FEATURES
+- [x] HOME
+- [x] ANIME LIST
+- [x] BOOKMARK
+- [x] SCHEDULES
+
+---
